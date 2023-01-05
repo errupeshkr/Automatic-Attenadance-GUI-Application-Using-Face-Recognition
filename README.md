@@ -5,8 +5,10 @@
 # Main Window
 ![1main window](https://user-images.githubusercontent.com/96507459/210858651-586757d9-49d4-43e2-9c5e-cabcf702dc5e.jpg)
 
+
 # Student Details
 ![2 1student details](https://user-images.githubusercontent.com/96507459/210858928-3b89d6b1-d0f6-4502-ae86-474745bf8814.jpg)
+
 
 # Student Samle Photos
 ![2 3 Taking photo](https://user-images.githubusercontent.com/96507459/210859279-bda877c3-30d0-4b8f-91a1-4341dece1d4f.jpg)
