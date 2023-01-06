@@ -16,9 +16,11 @@
 # Sample Photos Database
 ![5Trained photos database](https://user-images.githubusercontent.com/96507459/210859980-7c7c7903-f97d-4332-8e1a-69adaacef22d.png)
 
-#Training Dataset
+# Training Dataset
 ![3Trained dataset](https://user-images.githubusercontent.com/96507459/211028995-1739e5f2-da84-4cf9-a2e2-41725d8851fa.png)
 
+# Train Real-Time photo samle
+![Real-time training photos](https://user-images.githubusercontent.com/96507459/211040735-e4342cb2-be1d-4ba0-bdc7-c24c89fee13e.png)
 
 # Face Recognition
 ![FaceRecognition](https://user-images.githubusercontent.com/96507459/210864504-6ae6c477-ef5c-4065-bddd-ba59893e02f6.png)
