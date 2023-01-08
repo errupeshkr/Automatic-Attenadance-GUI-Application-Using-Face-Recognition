@@ -10,7 +10,7 @@
 ![2 1student details](https://user-images.githubusercontent.com/96507459/210858928-3b89d6b1-d0f6-4502-ae86-474745bf8814.jpg)
 
 
-# Student Samle Photos
+# Student Sample Photos
 ![2 3 Taking photo](https://user-images.githubusercontent.com/96507459/210859279-bda877c3-30d0-4b8f-91a1-4341dece1d4f.jpg)
 
 # Sample Photos Database
